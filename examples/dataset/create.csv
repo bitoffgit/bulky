@@ -1,0 +1,4 @@
+asin,quantity,discount,currency,first_name,last_name,street1,street2,city,state,zip,country,phone,group_order
+B07YPDRHBX,2,20,btc,Bob,Smith,Some St,,San Francisco,CA,94000,US,14245296997,1
+B08THHXDKS,3,20,btc,Bob,Smith,Some St,,San Francisco,CA,94000,US,14245296997,1
+B07HR8C86D,2,20,btc,Bob,Smith,Some St,,San Francisco,CA,94000,US,14245296997,2
