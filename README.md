@@ -12,7 +12,7 @@ Bulky is a command line tool for bulk order management. This CLI tool is for Bit
 
 ## Installation
 After installing golang compiler on your machine, you need run the following commands to install bulky:
-- `git clone https://git.malltina.com/bitoff/bulky.git`
+- `git clone https://git.bitoff.io/bitoff/bulky.git`
 - `cd bulky`
 - `sh bin/install.sh`
 
